@@ -1,6 +1,7 @@
 实现了比较经典的cnn网络
 1.LeNet
-2.VGG-13 VGG-19
+2.AlexNet
+2.VGG-16 VGG-19
 3.ZFNet
 4.Google Net
 ResNet
